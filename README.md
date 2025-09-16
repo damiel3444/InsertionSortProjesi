@@ -1,2 +1,0 @@
-# InsertionSortProjesi
-Eğitimlerdeki Ödevlerin Dosyaları
